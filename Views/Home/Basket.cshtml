@@ -1,0 +1,28 @@
+@model List<AlifAdminMiniMarketV2.Models.Basket>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>ID</td>
+            <td>ProductName</td>
+            <td>Address</td>
+            <td>Phone Numbers</td>
+            <td>Count</td>
+            <td></td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var x in Model)
+        {
+            <tr>
+                <td>@x.Id</td>
+                <td>@x.Product.ProductName</td>
+                <td>@x.Adress</td>
+                <td>@x.Numbers</td>
+                <td>@x.Count</td>
+                <td><a class="nav-link dark" asp-action="DeleteItem" asp-controller="Home" asp-route-id="@x.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

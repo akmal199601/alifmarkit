@@ -1,0 +1,36 @@
+﻿@model List<AlifAdminMiniMarketV2.Models.Product>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form asp-action="Index" asp-controller="Home" asp-antiforgery="true">
+<select name="category">
+    <option>
+        Все
+    </option>
+    @foreach (var x in ViewBag.Categories)
+    {
+        <option>@x.Category</option>
+    }
+</select>
+<input type="submit" value="Перейти">
+</form>
+
+<div class="row">
+    @foreach(var x in Model)
+    {
+        <div class="card">
+            <div class="card-title">
+                <h1 class="text-center">
+                    @x.ProductName
+                </h1>
+            </div>
+            <div class="card-body">
+                <b>@x.Price</b> сомони
+            </div>
+            <div>
+                <a class="nav-link dark btn" asp-route-id="@x.Id" asp-action="ToBasket" asp-controller="Home">Добавить в корзину</a>
+            </div>
+        </div>
+    }
+</div>

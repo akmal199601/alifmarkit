@@ -1,0 +1,31 @@
+@model AlifAdminMiniMarketV2.Models.Basket
+
+<form asp-action="ToBasket" asp-controller="Home" asp-antiforgery="true">
+    <div asp-validation-summary="ModelOnly"></div>
+    <div class="container">
+        <input type="hidden" name="sid" value="@ViewBag.Id"/>
+        <div>
+            <label asp-for="Adress">Адрес доставки</label>
+            <input type="text" asp-for="Adress" required class="form-control"/>
+            <span asp-validation-for="Adress"></span>
+        </div>
+        <div>
+            <label asp-for="Numbers">Ваш номер телефона</label>
+            <input type="number" asp-for="Numbers" required class="form-control"/>
+            <span asp-validation-for="Numbers"></span>
+        </div>
+        <div>
+            <label asp-for="DeliverTime">За сколько минут вам доставить</label>
+            <input type="number" asp-for="DeliverTime" required class="form-control"/>
+            <span asp-validation-for="DeliverTime"></span>
+        </div>
+        <div>
+            <label asp-for="Count">Количество</label>
+            <input type="number" asp-for="Count" required class="form-control"/>
+            <span asp-validation-for="Count"></span>
+        </div>
+        <div>
+            <input type="submit" value="В корзину" class="btn"/>
+        </div>
+    </div>
+</form>

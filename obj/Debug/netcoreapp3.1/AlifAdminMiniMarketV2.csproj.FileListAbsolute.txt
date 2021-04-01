@@ -1,0 +1,325 @@
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.exe
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.deps.json
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.runtimeconfig.json
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.runtimeconfig.dev.json
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.pdb
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.Views.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.Views.pdb
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.csprojAssemblyReference.cache
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.csproj.CoreCompileInputs.cache
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.RazorAssemblyInfo.cache
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.RazorAssemblyInfo.cs
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.AssemblyInfoInputs.cache
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.AssemblyInfo.cs
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.TagHelpers.input.cache
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.TagHelpers.output.cache
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.RazorCoreGenerate.cache
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.RazorTargetAssemblyInfo.cache
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.RazorTargetAssemblyInfo.cs
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.Views.pdb
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.csproj.CopyComplete
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/staticwebassets/AlifAdminMiniMarketV2.StaticWebAssets.Manifest.cache
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/staticwebassets/AlifAdminMiniMarketV2.StaticWebAssets.xml
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.dll
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.pdb
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.genruntimeconfig.cache
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/Razor/Views/Product/Index.cshtml.g.cs
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/Razor/Views/Product/Add.cshtml.g.cs
+C:/Users/GhostX/Desktop/c#Projects/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/Razor/Views/Product/Edit.cshtml.g.cs
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/appsettings.json
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/AlifAdminMiniMarketV2
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.deps.json
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.runtimeconfig.json
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.runtimeconfig.dev.json
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.pdb
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.Views.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.Views.pdb
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.csprojAssemblyReference.cache
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.csproj.CoreCompileInputs.cache
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.MvcApplicationPartsAssemblyInfo.cache
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.RazorAssemblyInfo.cache
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.RazorAssemblyInfo.cs
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.AssemblyInfoInputs.cache
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.AssemblyInfo.cs
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.TagHelpers.input.cache
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.TagHelpers.output.cache
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.RazorCoreGenerate.cache
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/Razor/Views/Product/Add.cshtml.g.cs
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/Razor/Views/Product/Edit.cshtml.g.cs
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/Razor/Views/Product/Index.cshtml.g.cs
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.RazorTargetAssemblyInfo.cache
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.RazorTargetAssemblyInfo.cs
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.Views.pdb
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.csproj.CopyComplete
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/staticwebassets/AlifAdminMiniMarketV2.StaticWebAssets.Manifest.cache
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/staticwebassets/AlifAdminMiniMarketV2.StaticWebAssets.xml
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.dll
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.pdb
+/home/jafar/Рабочий стол/AlifAdminMiniMarketV2/obj/Debug/netcoreapp3.1/AlifAdminMiniMarketV2.genruntimeconfig.cache
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.csprojAssemblyReference.cache
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.csproj.CoreCompileInputs.cache
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.RazorAssemblyInfo.cache
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.RazorAssemblyInfo.cs
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.AssemblyInfoInputs.cache
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.AssemblyInfo.cs
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.pdb
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.exe
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.deps.json
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.runtimeconfig.json
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.runtimeconfig.dev.json
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.pdb
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.Views.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.Views.pdb
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.TagHelpers.input.cache
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.TagHelpers.output.cache
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.RazorCoreGenerate.cache
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\Razor\Views\Product\Add.cshtml.g.cs
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.RazorTargetAssemblyInfo.cache
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.RazorTargetAssemblyInfo.cs
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.Views.pdb
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.csproj.CopyComplete
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\staticwebassets\AlifAdminMiniMarketV2.StaticWebAssets.Manifest.cache
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\staticwebassets\AlifAdminMiniMarketV2.StaticWebAssets.xml
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.genruntimeconfig.cache
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\Razor\Views\Home\ToBasket.cshtml.g.cs
+C:\Users\GhostX\Desktop\c#Projects\UpdatedAlifMiniMarket\AlifMiniMarket\obj\Debug\netcoreapp3.1\Razor\Views\Home\Basket.cshtml.g.cs
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.pdb
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.exe
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.deps.json
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.runtimeconfig.json
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.runtimeconfig.dev.json
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.pdb
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.Views.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.Views.pdb
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.csprojAssemblyReference.cache
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.AssemblyInfoInputs.cache
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.AssemblyInfo.cs
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.csproj.CoreCompileInputs.cache
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.RazorAssemblyInfo.cache
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.RazorAssemblyInfo.cs
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\staticwebassets\AlifAdminMiniMarketV2.StaticWebAssets.Manifest.cache
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\staticwebassets\AlifAdminMiniMarketV2.StaticWebAssets.xml
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\scopedcss\bundle\AlifAdminMiniMarketV2.styles.css
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.TagHelpers.input.cache
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.TagHelpers.output.cache
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.RazorCoreGenerate.cache
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\Razor\Views\Home\Basket.cshtml.g.cs
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\Razor\Views\Home\ToBasket.cshtml.g.cs
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\Razor\Views\Product\Add.cshtml.g.cs
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.RazorTargetAssemblyInfo.cache
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.RazorTargetAssemblyInfo.cs
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.Views.pdb
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.csproj.CopyComplete
+C:\Users\akmal\Desktop\lessons\mvc core practic\alifmarket\obj\Debug\netcoreapp3.1\AlifAdminMiniMarketV2.genruntimeconfig.cache
